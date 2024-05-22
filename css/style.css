@@ -45,8 +45,8 @@ body{
   font-style: normal;
   
   border: 2px solid black;
-        width: 240px;
-        height: 200px;
+        width: auto;
+        height: auto;
         padding: 10px;
         margin: 20px;
         border-top-left-radius: 20px;
@@ -61,8 +61,8 @@ body{
   font-style: normal;
   
   border: 2px solid black;
-    width: 240px;
-    height: 200px;
+    width: auto;
+    height: auto;
     padding: 10px;
     margin: 20px;
     border-top-left-radius: 20px;
@@ -81,8 +81,8 @@ body{
   font-style: normal;
   
   border: 2px solid black;
-    width: 240px;
-    height: 200px;
+    width: auto;
+    height: auto;
     padding: 10px;
     margin: 20px;
     border-top-left-radius: 20px;
@@ -100,8 +100,8 @@ body{
   font-style: normal;
   
   border: 2px solid black;
-    width: 240px;
-    height: 200px;
+    width: auto;
+    height: auto;
     padding: 10px;
     margin: 20px;
     border-top-left-radius: 20px;
@@ -115,8 +115,8 @@ body{
 
 .ramka5 {
   border: 2px solid black;
-    width: 240px;
-    height: 200px;
+    width: auto;
+    height: auto;
     padding: 10px;
     margin: 20px;
     border-top-left-radius: 20px;
@@ -136,8 +136,8 @@ body{
   font-style: normal;
   
   border: 2px solid black;
-    width: 240px;
-    height: 200px;
+    width: auto;
+    height: auto;
     padding: 10px;
     margin: 20px;
     border-top-left-radius: 20px;
